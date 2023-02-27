@@ -3,6 +3,7 @@
 - Java
 - Gherkin
 - Cucumber
+- BDD
 - TestNG
 - Maven
 - POM

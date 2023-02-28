@@ -1,5 +1,5 @@
 # This is a Task for using BDD .
-# Teach Stach :
+# Teach Stack :
 - Java
 - Gherkin
 - Cucumber
